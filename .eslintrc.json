@@ -1,0 +1,7 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+        "no-console": "warn" // console을 사용했을 경우 경고 메세지를 보여줌
+    },
+    "extends": ["airbnb-base"]
+}
